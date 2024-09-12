@@ -1,0 +1,65 @@
+html {
+    background-color:#FDF0ED;
+    margin: 10pt;
+    color:#201D3E;
+    text-align: center;
+    font-size: 16pt;
+    font-family:"Roboto Condensed", system-ui;
+    ::selection {
+        background: #F7D0C5;
+    }
+}
+/*FONTS*/
+/*HEADERS*/
+header {
+    background: url(../asset/Pattern\ Banner\ 3.png);
+    h2 {
+        color:#E8785A;
+        font-size: 1.75rem;
+    }
+}
+/*FOOTERS*/
+footer {
+    font-size: 0.6rem;
+}
+/*HEADINGS*/
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color:#E8785A;
+}
+h2 {
+    font-size:1.25rem;
+}
+/*LISTS*/
+ol {    
+    text-align: left;
+}
+ul {
+    text-align: left;
+}
+/*COLOUR SCHEME*/
+#darkblue {
+color: #201D3E;
+}
+#lightpink {
+    color: #F7D0C5;
+}
+#darkpink {
+    color:#E8785A;
+}
+#whitepink {
+    color:#FDF0ED;
+}
+#lightblue {
+    color:#00B0F0;
+}
+#purple {
+    color:#96607D;
+}
+/*LINKS*/
+a {
+    color: #E8785A;
+}
+/*PARAGRAPHS*/
+
